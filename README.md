@@ -10,11 +10,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
