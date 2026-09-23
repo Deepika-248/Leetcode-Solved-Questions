@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0507-perfect-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
