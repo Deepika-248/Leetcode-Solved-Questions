@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +50,13 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
