@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 ## Greedy
@@ -46,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 ## Binary Search
@@ -70,8 +73,17 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
