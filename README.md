@@ -27,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -91,4 +92,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
