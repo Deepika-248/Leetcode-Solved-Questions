@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepika-248/Leetcode-Solved-Questions/tree/master/0229-majority-element-ii) |
